@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 
-This is my page
+body: This is my page
 ---
